@@ -1,11 +1,14 @@
 # 👨‍🎓 Fahim Timori
 
-🎓 **TOEFL Candidate** | 🎯 **Scholarship Applicant** | 💻 **Aspiring Software Engineer**
+🎓 **TOEFL Candidate** | 💻 **Aspiring Software Engineer**
 
 ---
 
 ## 👤 About Me
-Hello! My name is **Fahim Timori**. I am a motivated student preparing for international academic opportunities and scholarship programs. I am passionate about technology, software development, and building user-friendly applications using modern tools.
+Hello! My name is **Fahim Timori**. I started my professional journey in the healthcare sector, where I gained hands-on experience with hospital information systems, administrative workflows, and night-shift operations. Alongside this, I developed strong problem-solving and communication skills.
+
+Later, I expanded my technical expertise through front-end web development internships, working with HTML, CSS, CMS, and WordPress. Currently, I work remotely as a Shopify and Magento Content Manager, focusing on website optimization, SEO strategies, and improving user experience for e-commerce platforms.
+I have completed multiple academic and professional training programs in programming, database systems, web development, and English language proficiency. These include Java programming, Oracle database fundamentals, TOEFL preparation, and professional English communication courses, which have strengthened both my technical and interpersonal skills.
 
 ---
 
@@ -97,8 +100,8 @@ Hello! My name is **Fahim Timori**. I am a motivated student preparing for inter
 
 ## 📫 Contact
 - **Name**: Fahim Timori  
-- **Email**: your-email@example.com  
-- **GitHub**: https://github.com/your-username  
+- **Email**: fahimtimori110@gmail.com  
+- **GitHub**: https://github.com/fahimtimori
 
 ---
 
